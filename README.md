@@ -10,7 +10,7 @@ It uses **Natural Language Processing (NLP)** techniques and the **Naive Bayes c
 
 ### 1. **Clone the Repository**
 
-git clone [[[https://github.com/your-username/email-spam-detector.git](https://github.com/SEERINM/EMAIL-SPAM-DETECTOR.git)]](https://github.com/SEERINM/EMAIL-SPAM-DETECTOR.git)
+git clone [https://github.com/SEERINM/EMAIL-SPAM-DETECTOR.git](https://github.com/SEERINM/EMAIL-SPAM-DETECTOR.git)
 
 cd email-spam-detector
 
